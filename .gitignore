@@ -2,6 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/HelloWorldCPP/.vs/HelloWorldCPP/v16/Browse.VC.opendb
 *.opendb
 *.lock

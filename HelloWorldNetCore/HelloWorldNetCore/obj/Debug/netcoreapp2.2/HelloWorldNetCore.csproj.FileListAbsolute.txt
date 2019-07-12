@@ -1,0 +1,11 @@
+C:\Users\mhaynes\Documents\test_projects\git\HelloWorld\HelloWorldNetCore\HelloWorldNetCore\bin\Debug\netcoreapp2.2\HelloWorldNetCore.deps.json
+C:\Users\mhaynes\Documents\test_projects\git\HelloWorld\HelloWorldNetCore\HelloWorldNetCore\bin\Debug\netcoreapp2.2\HelloWorldNetCore.runtimeconfig.json
+C:\Users\mhaynes\Documents\test_projects\git\HelloWorld\HelloWorldNetCore\HelloWorldNetCore\bin\Debug\netcoreapp2.2\HelloWorldNetCore.runtimeconfig.dev.json
+C:\Users\mhaynes\Documents\test_projects\git\HelloWorld\HelloWorldNetCore\HelloWorldNetCore\bin\Debug\netcoreapp2.2\HelloWorldNetCore.dll
+C:\Users\mhaynes\Documents\test_projects\git\HelloWorld\HelloWorldNetCore\HelloWorldNetCore\bin\Debug\netcoreapp2.2\HelloWorldNetCore.pdb
+C:\Users\mhaynes\Documents\test_projects\git\HelloWorld\HelloWorldNetCore\HelloWorldNetCore\obj\Debug\netcoreapp2.2\HelloWorldNetCore.csprojAssemblyReference.cache
+C:\Users\mhaynes\Documents\test_projects\git\HelloWorld\HelloWorldNetCore\HelloWorldNetCore\obj\Debug\netcoreapp2.2\HelloWorldNetCore.csproj.CoreCompileInputs.cache
+C:\Users\mhaynes\Documents\test_projects\git\HelloWorld\HelloWorldNetCore\HelloWorldNetCore\obj\Debug\netcoreapp2.2\HelloWorldNetCore.AssemblyInfoInputs.cache
+C:\Users\mhaynes\Documents\test_projects\git\HelloWorld\HelloWorldNetCore\HelloWorldNetCore\obj\Debug\netcoreapp2.2\HelloWorldNetCore.AssemblyInfo.cs
+C:\Users\mhaynes\Documents\test_projects\git\HelloWorld\HelloWorldNetCore\HelloWorldNetCore\obj\Debug\netcoreapp2.2\HelloWorldNetCore.dll
+C:\Users\mhaynes\Documents\test_projects\git\HelloWorld\HelloWorldNetCore\HelloWorldNetCore\obj\Debug\netcoreapp2.2\HelloWorldNetCore.pdb
